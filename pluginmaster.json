@@ -12,13 +12,13 @@
         "LoadPriority": 1,
         "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
+        "DownloadLinkInstall": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
+        "DownloadLinkTesting": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639726987"
+        "LastUpdated": "1639727219"
     },
     {
         "Author": "daemitus",
@@ -35,13 +35,13 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
         ],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkInstall": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/WondrousTailsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639726987"
+        "LastUpdated": "1639727219"
     },
     {
         "Author": "daemitus",
@@ -59,13 +59,13 @@
             "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image1.png",
             "https://raw.githubusercontent.com/daemitus/MiniCactpotSolver/master/res/image2.png"
         ],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkInstall": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/MiniCactpotSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639726987"
+        "LastUpdated": "1639727219"
     },
     {
         "Author": "daemitus",
@@ -80,13 +80,13 @@
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/daemitus/ZodiacBuddy/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
+        "DownloadLinkInstall": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/ZodiacBuddy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639726987"
+        "LastUpdated": "1639727219"
     },
     {
         "Author": "daemitus",
@@ -101,13 +101,13 @@
         "LoadPriority": 0,
         "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkInstall": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkTesting": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639726987"
+        "LastUpdated": "1639727219"
     },
     {
         "Author": "attick, daemitus",
@@ -122,13 +122,13 @@
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkInstall": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkTesting": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639726987"
+        "LastUpdated": "1639727219"
     },
     {
         "Author": "daemitus",
@@ -145,12 +145,12 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/daemitus/FauxHollowsSolver/master/res/image1.png"
         ],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
+        "DownloadLinkInstall": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
+        "DownloadLinkTesting": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plug-ffxiv/MyDalamudPlugins/raw/master/plugins/FauxHollowsSolver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639726987"
+        "LastUpdated": "1639727219"
     }
 ]
